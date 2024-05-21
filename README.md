@@ -3,13 +3,15 @@ Welcome to my collection of Data Analytics projects! This repository showcases v
 
 Project Workflow
 Loading the Dataset
-
+<br>
 We begin by loading datasets obtained from various sources. Each dataset is carefully selected to demonstrate different aspects of data analysis.
+<br>
 Data Cleaning
-
+<br>
 Cleaning the data is a crucial step. This involves handling missing values, correcting inconsistencies, and ensuring the dataset is ready for analysis.
+<br>
 Data Sorting and Transformation
-
+<br>
 After cleaning, we sort and transform the data using various methods to prepare it for analysis. This may include filtering, grouping, and aggregating data to derive meaningful insights.
 Exploratory Data Analysis (EDA)
 
