@@ -18,8 +18,9 @@ Exploratory Data Analysis (EDA)
 Finally, we perform Exploratory Data Analysis to uncover patterns, trends, and relationships within the data. This step involves visualizing data and using statistical methods to extract valuable insights.
 Projects
 Each project in this repository follows the above workflow.
+<br>
 Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
-
+<br>
 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
